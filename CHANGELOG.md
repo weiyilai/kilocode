@@ -1,5 +1,17 @@
 # kilo-code
 
+## 4.135.0
+
+### Minor Changes
+
+- [#4326](https://github.com/Kilo-Org/kilocode/pull/4326) [`6d62090`](https://github.com/Kilo-Org/kilocode/commit/6d620905dfc6d8419bdbc9ffcad54109057e709e) Thanks [@iscekic](https://github.com/iscekic)! - improve session sync mechanism (event based instead of timer)
+
+### Patch Changes
+
+- [#4362](https://github.com/Kilo-Org/kilocode/pull/4362) [`d596a08`](https://github.com/Kilo-Org/kilocode/commit/d596a08d6fe5c1a719855616ba5f582407f6769a) Thanks [@iscekic](https://github.com/iscekic)! - extract an extension message handler for extension/cli reuse
+
+- [#4361](https://github.com/Kilo-Org/kilocode/pull/4361) [`24813e9`](https://github.com/Kilo-Org/kilocode/commit/24813e900e50bf63dbb553a951970467221ce73d) Thanks [@catrielmuller](https://github.com/catrielmuller)! - Fix Kilo Auth flow
+
 ## 4.134.0
 
 ### Minor Changes
