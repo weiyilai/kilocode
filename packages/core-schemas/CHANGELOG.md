@@ -1,5 +1,11 @@
 # @kilocode/core-schemas
 
+## 0.0.3
+
+### Patch Changes
+
+- [#5359](https://github.com/Kilo-Org/kilocode/pull/5359) [`e4076d9`](https://github.com/Kilo-Org/kilocode/commit/e4076d9d21c5a6a6c3ef34480f962c24c19cac54) Thanks [@PeterDaveHello](https://github.com/PeterDaveHello)! - Add missing openai-codex provider type definition
+
 ## 0.0.2
 
 ### Patch Changes
