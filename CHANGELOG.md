@@ -1,5 +1,25 @@
 # kilo-code
 
+## 5.7.1
+
+### Patch Changes
+
+- [#5639](https://github.com/Kilo-Org/kilocode/pull/5639) [`853b03f`](https://github.com/Kilo-Org/kilocode/commit/853b03f4c6e340c26e9cddd13dae958815560c18) Thanks [@mikij](https://github.com/mikij)! - Updates some visual bugs in Agent Behaviour settings page
+
+- [#5195](https://github.com/Kilo-Org/kilocode/pull/5195) [`d463a8b`](https://github.com/Kilo-Org/kilocode/commit/d463a8b8b30787c8787a0a10c8d90656847758e9) Thanks [@Drilmo](https://github.com/Drilmo)! - Filter internal verification tags from assistant messages before displaying to users
+
+- [#5811](https://github.com/Kilo-Org/kilocode/pull/5811) [`90a34f6`](https://github.com/Kilo-Org/kilocode/commit/90a34f6e6a2718ab2d63f2474fe6c7b35f7a57f9) Thanks [@wombatepiclandingstudio](https://github.com/wombatepiclandingstudio)! - fix: prevent context token indicator flickering
+
+- [#5055](https://github.com/Kilo-Org/kilocode/pull/5055) [`74d904e`](https://github.com/Kilo-Org/kilocode/commit/74d904ea945d142489aee139cbb0572b406d08c3) Thanks [@Leoyzen](https://github.com/Leoyzen)! - feat: support preserving reasoning content in OpenAI format conversion
+
+- [#5167](https://github.com/Kilo-Org/kilocode/pull/5167) [`8b9de69`](https://github.com/Kilo-Org/kilocode/commit/8b9de69d30030dff0811d33e28d0ac699ce7e871) Thanks [@hdcodedev](https://github.com/hdcodedev)! - Fix: "Kill Command" button now reliably terminates processes on all platforms, including those running in the background.
+
+- [#5630](https://github.com/Kilo-Org/kilocode/pull/5630) [`29f287a`](https://github.com/Kilo-Org/kilocode/commit/29f287a65fa9b02de3ddfe52a38317f77411fd34) Thanks [@SenatusSPQR1](https://github.com/SenatusSPQR1)! - fix(nano-gpt): Add native reasoning field extraction
+
+- [#5814](https://github.com/Kilo-Org/kilocode/pull/5814) [`5b10436`](https://github.com/Kilo-Org/kilocode/commit/5b104360c175c3aebecd42d0e3c184d43fc767b6) Thanks [@shssoichiro](https://github.com/shssoichiro)! - Support custom embed dimensions for Ollama provider
+
+- [#5523](https://github.com/Kilo-Org/kilocode/pull/5523) [`5610aca`](https://github.com/Kilo-Org/kilocode/commit/5610aca37c401fd5958b548cb8eab6013779a3ed) Thanks [@abdulrahimpds](https://github.com/abdulrahimpds)! - Fix: Persist total API cost after message deletion
+
 ## 5.7.0
 
 ### Minor Changes
